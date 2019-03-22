@@ -1,0 +1,17 @@
+F:\Kinect\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+F:\Kinect\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+F:\Kinect\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+F:\Kinect\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+F:\Kinect\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+F:\Kinect\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojAssemblyReference.cache
+F:\Kinect\DepthBasics-WPF\obj\Debug\MainWindow.baml
+F:\Kinect\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+F:\Kinect\DepthBasics-WPF\obj\Debug\App.g.cs
+F:\Kinect\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+F:\Kinect\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+F:\Kinect\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+F:\Kinect\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.cache
+F:\Kinect\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.CoreCompileInputs.cache
+F:\Kinect\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.CopyComplete
+F:\Kinect\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+F:\Kinect\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
