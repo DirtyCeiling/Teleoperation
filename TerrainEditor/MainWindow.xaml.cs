@@ -136,7 +136,7 @@ namespace Microsoft.Samples.Kinect.DepthBasics
 
 
 
-            String connetStr = "server=169.254.251.139;port=3306;user=root;password=AIHUO0926xz; database=world;";
+            String connetStr = "server=169.254.251.139;port=3306;user=root;password=123456xz; database=world;";
             // server=127.0.0.1/localhost 代表本机，端口号port默认是3306可以不写
              conn = new MySqlConnection(connetStr);
             //打开通道，建立连接，可能出现异常,使用try catch语句
